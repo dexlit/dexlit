@@ -1,9 +1,8 @@
 ### Hi there 👋
-
 <!--
 **dexlit/dexlit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +12,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+<p align="left">
+  <hr>
+
+  <p align="center">
+ &nbsp;<i><b>GitHub Stats</b></i>
+ </p>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dexlit&show_icons=true&theme=gruvbox&hide_border=true" />&nbsp;<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dexlit&theme=gruvbox&hide_border=true" />
+
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=dexlit&custom_title=Dex%20Lit's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)"/>
